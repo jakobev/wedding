@@ -48,12 +48,7 @@ section {
   height: 100%;
 	scroll-behavior: smooth;
 	scroll-snap-align: start;
-	display: flex;
-	align-items: center;
-	justify-content: center;
 	text-align: center;
-	flex-direction: row;
-	flex-wrap: wrap;
 	overflow-y: scroll;
 }
 

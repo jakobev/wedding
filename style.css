@@ -30,7 +30,7 @@ body{
   height: 300px;
   display: flex;
   overflow-x: scroll;
-	background-color: #fff;
+	background-color: rgba(255,255,255,0.3);
 	margin: auto;
 	display: flex;
 	text-align: center;
